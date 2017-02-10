@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\SAP\SAP Business One SDK\Tools\AddOnRegDataGen\AddOnRegDataGen.exe" "D:\Projects\Spica\Inter_Company\Inter_Company\AddOnRegDataGenFile\Inter_Company.xml" "20131019" "D:\Projects\Spica\Inter_Company\Inter_Company\bin\Inter_Company.exe" "D:\Projects\Spica\Inter_Company\Inter_Company\bin\Inter_Company.exe" "D:\Projects\Spica\bin\Release\SpicaInterCompany.exe"

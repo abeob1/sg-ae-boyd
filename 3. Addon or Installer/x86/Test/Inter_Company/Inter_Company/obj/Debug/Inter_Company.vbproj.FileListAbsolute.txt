@@ -1,0 +1,13 @@
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\bin\Inter_Company.exe
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\bin\Inter_Company.pdb
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\bin\Inter_Company.xml
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\Inter_Company.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\Inter_Company.exe
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\Inter_Company.xml
+F:\Application\SAP B1\SVN\New folder\Inter_Company\Inter_Company\obj\Debug\Inter_Company.pdb

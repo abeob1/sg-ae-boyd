@@ -1,0 +1,11 @@
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\bin\20160120.01.exe
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\bin\20160120.01.xml
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.BaseControl.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.BaseForm.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\20160120.01.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\20160120.01.exe
+F:\Application\SAP B1\SVN\BOYD - New Spica\3. Installer or Addon\x64\20160120.01\20160120.01\20160120.01\obj\Release\20160120.01.xml

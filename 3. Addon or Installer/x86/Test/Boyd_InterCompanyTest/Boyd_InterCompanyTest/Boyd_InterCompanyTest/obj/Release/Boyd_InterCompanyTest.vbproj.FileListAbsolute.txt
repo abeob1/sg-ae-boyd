@@ -1,0 +1,11 @@
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\bin\Boyd_InterCompanyTest.exe
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\bin\Boyd_InterCompanyTest.xml
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.BaseControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.BaseForm.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\Boyd_InterCompanyTest.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\Boyd_InterCompanyTest.exe
+F:\Application\SAP B1\Projects\BOYD - New Spica\Add on\Boyd_InterCompanyTest\Boyd_InterCompanyTest\Boyd_InterCompanyTest\obj\Release\Boyd_InterCompanyTest.xml

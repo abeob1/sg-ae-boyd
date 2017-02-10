@@ -1,0 +1,11 @@
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\bin\20150318.02.exe
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\bin\20150318.02.xml
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.BaseControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.BaseForm.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\20150318.02.vbproj.GenerateResource.Cache
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\20150318.02.exe
+F:\Application\SAP B1\Projects\BOYD - New Spica\20150318.02\20150318.02\20150318.02\obj\Release\20150318.02.xml
